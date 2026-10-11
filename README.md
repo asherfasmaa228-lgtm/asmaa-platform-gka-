@@ -1,4 +1,4 @@
-# Asmaa Platform GKS 2026
+# Asmaa Platform GKS 2027
 
 My portfolio for GKS Scholarship - 3 AI Apps to bridge Egypt & Korea
 
@@ -7,4 +7,4 @@ My portfolio for GKS Scholarship - 3 AI Apps to bridge Egypt & Korea
 2. **HalalScan** - Halal Checker for Muslims in Korea: https://halalpy-nyzqe45c5jk6dyf83np3yk.streamlit.app/
 3. **Barik Pro** - Price Comparison: https://asmaa-black-dvzpyg4njpxbv7mn2gm3kn.streamlit.app/
 
-Built by Asmaa | Beni Suef, Egypt | For GKS-U 2026
+Built by Asmaa | Beni Suef, Egypt | For GKS-U 2027
